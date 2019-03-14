@@ -9,7 +9,9 @@ PREREQUISITES
 
 
 2. install PyAudio
+
 commands:
+
 1.sudo apt-get install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0
 
 2.sudo apt-get install ffmpeg libav-tools
