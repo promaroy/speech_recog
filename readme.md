@@ -2,9 +2,10 @@ PREREQUISITES
 
 
 1. install  speech_recognition
-1.command: pip install SpeechRecognition (for python2)
 
-2.command: pip3 install SpeechRecognition(for python3)
+  1.command: pip install SpeechRecognition (for python2)
+
+  2.command: pip3 install SpeechRecognition(for python3)
 
 
 
