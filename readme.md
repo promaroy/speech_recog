@@ -1,7 +1,9 @@
-PREREQUISITES
+##This is an app built using python which converts voice message to text##
+
+#PREREQUISITES#
 
 
-1. install  speech_recognition
+###1. install  speech_recognition###
 
   1.command: pip install SpeechRecognition (for python2)
 
@@ -9,7 +11,7 @@ PREREQUISITES
 
 
 
-2. install PyAudio
+###2. install PyAudio###
 
 commands:
 
